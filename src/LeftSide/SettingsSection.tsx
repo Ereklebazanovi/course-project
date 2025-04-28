@@ -1,7 +1,5 @@
 // src/SettingsSection.tsx
-import React from 'react';
 import { LogOut, Settings } from 'lucide-react'; // Icons from lucide-react
-import { Link } from 'react-router-dom';
 
 interface SettingsSectionProps {
   collapsed: boolean;
